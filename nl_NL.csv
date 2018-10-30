@@ -2625,11 +2625,6 @@
 "Move to Another Update","Verplaatsen naar een andere Update",module,Magento_CatalogRuleStaging
 "Delete the Update","Verwijder de Update",module,Magento_CatalogRuleStaging
 "The catalog price rule will be removed from the update and all scheduled changes will be lost.","De catalogus prijsregel zal worden verwijderd uit de update en alle geplande wijzigingen zullen verloren gaan.",module,Magento_CatalogRuleStaging
-"200","200",module,Magento_CatalogRuleStaging
-"100","100",module,Magento_CatalogRuleStaging
-"50","50",module,Magento_CatalogRuleStaging
-"30","30",module,Magento_CatalogRuleStaging
-"20","20",module,Magento_CatalogRuleStaging
 "Start Time","Begintijd",module,Magento_CatalogRuleStaging
 "End Time","Eindtijd",module,Magento_CatalogRuleStaging
 "Catalog Price Rules","Catalogusprijs Regels",module,Magento_CatalogRuleStaging
@@ -2731,11 +2726,6 @@
 "Move to Another Update","Verplaatsen naar een andere Update",module,Magento_CatalogStaging
 "Delete the Update","Verwijder de Update",module,Magento_CatalogStaging
 "The category will be removed from the update and all scheduled changes will be lost.","De categorie zal worden verwijderd uit de update en alle geplande wijzigingen zullen verloren gaan.",module,Magento_CatalogStaging
-"200","200",module,Magento_CatalogStaging
-"100","100",module,Magento_CatalogStaging
-"50","50",module,Magento_CatalogStaging
-"30","30",module,Magento_CatalogStaging
-"20","20",module,Magento_CatalogStaging
 "Start Time","Starttijd",module,Magento_CatalogStaging
 "End Time","Eindtijd",module,Magento_CatalogStaging
 "ID","ID",module,Magento_CatalogStaging
@@ -3199,11 +3189,6 @@
 "Move to Another Update","Verplaatsen naar een andere Update",module,Magento_CmsStaging
 "Delete the Update","Verwijder de Update",module,Magento_CmsStaging
 "The block will be removed from the update and all scheduled changes will be lost.","Het blok zal worden verwijderd uit de update en alle geplande wijzigingen zullen verloren gaan.",module,Magento_CmsStaging
-"200","200",module,Magento_CmsStaging
-"100","100",module,Magento_CmsStaging
-"50","50",module,Magento_CmsStaging
-"30","30",module,Magento_CmsStaging
-"20","20",module,Magento_CmsStaging
 "Start Time","Begin Tijd",module,Magento_CmsStaging
 "End Time","Eindtijd",module,Magento_CmsStaging
 "Remove CMS page from Update","Verwijder CMS pagina van Update",module,Magento_CmsStaging
@@ -7042,7 +7027,6 @@ U moet een een simpel product aanmaken voor elke configuratie (Ex: een product v
 "Log Archiving Frequency","Log Archiverings Frequentie",module,Magento_Logging
 "Admin Actions Logging","Admin Acties Loggen",module,Magento_Logging
 "Enabled Actions","Ingeschakelde Acties",module,Magento_Logging
-"1","één",module,Magento_Logging
 "View","Bekijk",module,Magento_Logging
 "Save","Opslaan",module,Magento_Logging
 "Delete","Verwijder",module,Magento_Logging
@@ -11329,11 +11313,6 @@ U moet een een simpel product aanmaken voor elke configuratie (Ex: een product v
 "Move to Another Update","Verplaatsen naar een andere Update",module,Magento_SalesRuleStaging
 "Delete the Update","Verwijder de Update",module,Magento_SalesRuleStaging
 "The cart price rule will be removed from the update and all scheduled changes will be lost.","De winkelwagen prijsregel zal worden verwijderd uit de update en alle geplande wijzigingen zullen verloren gaan.",module,Magento_SalesRuleStaging
-"200","200",module,Magento_SalesRuleStaging
-"100","100",module,Magento_SalesRuleStaging
-"50","50",module,Magento_SalesRuleStaging
-"30","30",module,Magento_SalesRuleStaging
-"20","20",module,Magento_SalesRuleStaging
 "Start Time","Begin Tijd",module,Magento_SalesRuleStaging
 "End Time","Eindtijd",module,Magento_SalesRuleStaging
 "Cart Price Rules","Winkelwagen prijs regels",module,Magento_SalesRuleStaging
