@@ -3990,7 +3990,7 @@ U moet een een simpel product aanmaken voor elke configuratie (Ex: een product v
 "Generate Products","Genereer Producten",module,Magento_ConfigurableProduct
 "Something went wrong.","Er ging iets mis.",module,Magento_ConfigurableProduct
 "Buy %1 for %2 each and","Koop %1 voor %2 per stuk en",module,Magento_ConfigurableProduct
-"save","bewaar",module,Magento_ConfigurableProduct
+"save","bespaar",module,Magento_ConfigurableProduct
 "Configurable Product Image","Afbeelding configureerbaar product",module,Magento_ConfigurableProduct
 "Select...","Selecteer...",module,Magento_ConfigurableProduct
 "ID","ID",module,Magento_ConfigurableProduct
